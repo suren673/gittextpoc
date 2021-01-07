@@ -5,4 +5,7 @@ third line
 =======
 fourth line
 fifth line
+<<<<<<< HEAD
+>>>>>>> 685fbda... added fifth line
+=======
 >>>>>>> 685fbda... added fifth line
